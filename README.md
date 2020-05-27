@@ -5,12 +5,6 @@ Computer Vision for Fashion
 
 * [Why we made Fashion-MNIST](#why-we-made-fashion-mnist)
 * [Get the Data](#get-the-data)
-* [Usage](#usage)
-* [Benchmark](#benchmark)
-* [Visualization](#visualization)
-* [Contributing](#contributing)
-* [Contact](#contact)
-* [Citing Fashion-MNIST](#citing-fashion-mnist)
 * [License](#license)
 </p></details><p></p>
 

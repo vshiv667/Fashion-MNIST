@@ -72,7 +72,7 @@ Each training and test example is assigned to one of the following labels:
 | 9 | Ankle boot |
 
 
-## License
+## License 
 
 The MIT License (MIT) Copyright © [2017] Zalando SE, https://tech.zalando.com
 
